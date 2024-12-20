@@ -81,6 +81,6 @@ This project is a web application inspired by Airbnb, designed to provide users 
 ## Contact
 
 For questions or feedback, please contact:
-- **Your Name**: your-email@example.com
-- [GitHub Repository](https://github.com/your-username/airbnb-clone)
+- **Your Name**: nobuhlereitumetse@gmail.com
+- [GitHub Repository](https://github.com/ReituTheCompSciGirlie/AirBnbProject)
 
